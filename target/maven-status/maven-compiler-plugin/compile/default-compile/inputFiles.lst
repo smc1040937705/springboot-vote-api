@@ -1,0 +1,16 @@
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\dto\CastVoteRequest.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\entity\VoteOption.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\entity\VoteRecord.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\service\VoteService.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\exception\BusinessException.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\repository\VoteRepository.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\task\VoteExpireTask.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\dto\CreateVoteRequest.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\common\Result.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\VoteApiApplication.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\repository\VoteOptionRepository.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\exception\GlobalExceptionHandler.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\controller\VoteController.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\repository\VoteRecordRepository.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\dto\VoteResultResponse.java
+F:\cursor\dogfooding\新题目\test1\dogfood\springboot-vote-api\src\main\java\com\example\vote\entity\Vote.java
